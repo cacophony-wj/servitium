@@ -144,17 +144,35 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 ### WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
+Wait until all the messages appear then disappear in the upper left corner of the screen. 
 
-### MCM Recorder
+Save and reload the game. Wait for the messages.
 
-Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. 
+Open the menu and select **MCM Configuration.** Find the _SexLab MCM_ and click the option which reads "Install/Update SexLab." Then close the menu.
 
-Execute the **"READ README THEN RUN ME"** recording. Confirmation requires that you close the MCM Menu and select "Run Recording." Do not touch anything until all messages disappear in the Upper Left.
+Wait for for all messages to appear and disappear. It takes about two minutes. 
 
-If you prefer _futanari_ style content, run the optional **"RUN TO ADD FUTA**" MCM Recording. This will give all females in the game a 10% chance for futanari "enhancement." To add this enhancment to the player, check the "Player/NPC" settings in the _Schlongs of Skyrim_ MCM.
+Save and reload the game. Wait for the messages.
 
-Everything should now be configured automatically. Enjoy the modlist!
+Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option on the left. Scroll to the top and select "Register." The entry will gray out. **Touch nothing** until this menu reads "Registered." It takes about 30 seconds. Close the menu.
+
+Save and reload the game. Wait for the messages.
+
+Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. You should receive a message that some 800+ animations are enabled if it completes successfully.
+
+Save and reload the game. Wait for the messages.
+
+Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"READ README THEN RUN ME FIRST."** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has completed.
+
+The @Unpause cuts of MCM recordings from a user who actually enjoys _SexLab_. I recommend these if the primary settings aren't to your liking. There are EASY and HARD variants and they are probably balanced more for the Lola mod. **ONLY CHOOSE ONE** of these recordings, "RUN ME FIRST," "Unpause Easy" or "Unpause Hard." If you run more than one you will need to start over.
+
+Save and reload your game. Wait for the messages.
+
+Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME SECOND."** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has completed.
+
+The final step is to run the optional _FUTANARI_ MCM recording if you desire such content. This option gives every female in the game a 10% chance for futanari "enhancement." It does not affect the player. To give yourself the same "enhancement," check the Player/NPC Settings in the _Schlongs of Skyrim MCM._
+
+Good luck and may your game-breaking bugs be few in number. 
 
 ## FINAL NOTES
 
