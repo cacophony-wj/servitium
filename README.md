@@ -194,4 +194,4 @@ I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
 For more information about me, as well as ways to show your appreciation for my work, visit https://cacophony.me
 
-My _Licentia_ related email is cacophony-wj@outlook.com.
+My _Servitium_ related email is cacophony-wj@outlook.com.
