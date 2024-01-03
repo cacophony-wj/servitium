@@ -32,9 +32,9 @@ These accounts are mandatory, they must be created before continuing. _Nexus Pre
 
 The _Lover's Lab API_ (automatic download interface) is no longer available due to technical considerations, so it is recommended to download all mods from there in a normal web browser _before launching Wabbajack._ In addition, several files from other third-party hosts such as _MEGA_ and _Google Drive_ often have difficulty, so those must be downloaded as well. To do so, take the following steps.
 
-Create a directory for your chosen modlist. Something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Licentia`). 
+Create a directory for your chosen modlist. Something in the root folder of a fast Solid State Drive, or -- ideally -- an M.2 NVME. (Something like `D:\Servitium`). 
 
-Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Licentia\downloads`)
+Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Servitium\downloads`)
 
 Refer to [this document](DOWNLOADS.md) for links to all of the External Mods you need to download. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM,** they need to be _exactly_ as downloaded from the website.
 
@@ -106,7 +106,7 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 **Wabbajack could not find my game folder:**
 
-_Licentia Black_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
+_Servitium_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
 
 **MEGA download cap exceeded.**
 
@@ -120,11 +120,11 @@ If _Wabbajack_ terminates without a green "COMPLETE" success box and instead giv
 
 ### Verifying the Modlist
 
-_Licentia_ is over 500GB in size. To install the list, _Wabbajack_ downloads and patches hundreds of thousands of files. During the installation process several of these files are likely to have failed or corrupted in some way. Before finishing up with the _Wabbajack_ app, it is **strongly recommended** to run a file verification step or the modlist may be nearly unplayable.
+_Servitium_ is over 500GB in size. To install the list, _Wabbajack_ downloads and patches hundreds of thousands of files. During the installation process several of these files are likely to have failed or corrupted in some way. Before finishing up with the _Wabbajack_ app, it is **strongly recommended** to run a file verification step or the modlist may be nearly unplayable.
 
 To verify the modlist, click the Gear icon in the upper right once again. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following command:
 
-`wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
+`wabbajack-cli verify-modlist-install -m "path to the Servitium.wabbajack file" -i "Servitium install folder path"`
 
 Obviously you will need to replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
 
@@ -162,17 +162,13 @@ When you reach your first exterior world location, you will be prompted to enabl
 
 You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
 
-### Confused about where to begin?
-
-[Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
-
 ## Updating the Modlist
 
 Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. It is rarely recommended to continue a save when you update a modlist.
 
 ## Removing the Modlist
 
-You can just remove the _Licentia_ folder. 
+You can just remove the _Servitium_ folder. 
 
 ## Contact
 
