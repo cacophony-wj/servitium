@@ -142,6 +142,12 @@ URL: https://www.loverslab.com/files/file/17619-prison-alternative-a-modular-pri
 
 File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
 
+### Practical Defeat
+
+URL: https://www.loverslab.com/files/file/27489-beta-practical-defeat/
+
+File: `Practical Defeat v0.3.3.7z`
+
 ### Public Whore
 
 URL: https://www.loverslab.com/files/file/17026-public-whore/
@@ -352,6 +358,12 @@ URL: https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/waw1EKiR
 
 File: `BakaFactory ABC LE SE.7z`
 
+### Devious Devices for SE & VR 5.2
+
+URL: https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU
+
+File: `Devious Devices [SE][AE][VR] 5.2.7z`
+
 ## HOSTED SITE: GOOGLE DRIVE
 
 ### Pubic Hair Overlays SE
@@ -359,3 +371,84 @@ File: `BakaFactory ABC LE SE.7z`
 URL: https://drive.google.com/uc?id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG&export=download
 
 File: `Pubic Hair Overlays SE.zip`
+
+## ADDITIONAL FILES FOR THE MEGA VERSION
+
+The following files are only necessary if you downloaded the Expanded _Servitium_ from _MEGA._ They are for the DEAD and TOYS Profiles.
+
+### Beautiful Corpses
+
+URL: https://www.loverslab.com/topic/203846-shadowman2777-mods/
+
+File: `Beautiful corp BC ESL.rar`
+
+Note: Not a regular download. This is an attachment to the first post on the page.
+
+### Diabloesque Decorations
+
+URL: https://www.loverslab.com/topic/194570-request-prison-torture-mod/#comment-3825801
+
+File: `zdd_e_SE.7z`
+
+Note: Not a regular download. This is an attachment to a forum post.
+
+### Immersive Daedra Worship - Temple of Molag Bal
+
+URL: https://www.loverslab.com/files/file/10941-immersive-daedra-worship-temple-of-molag-bal
+
+File: `Immersive_Daedra_Worship_v05alpha_-1_.zip`
+
+File: `Immersive_Daedra_Worship_-_Music_Addon_pt_1.zip`
+
+File: `Immersive_Daedra_Worship_-_Music_Addon_pt_2.zip`
+
+File: `Immersive_Daedra_Worship_-_Music_Addon_pt_3.zip`
+
+File: `Immersive_Daedra_Worship_-_Music_Addon_pt_3.zip`
+
+### Immersive Daedra Worship - Temple of Molag Bal - Addon
+
+URL: https://www.loverslab.com/files/file/25931-immersive-daedra-worship-temple-of-molag-bal-addon/
+
+File: `Immersive Daedra Worship Addon 1.0.1.7z`
+
+### KS Hair for Shout Like A Virgine SE
+
+URL: https://www.loverslab.com/files/file/23556-kshair-for-shout-like-a-virgin-se/
+
+File: `KSHairForVirginSE-1.zip`
+
+### Namira's Goat Reborn
+
+URL: https://www.loverslab.com/files/file/12276-namiras-goat-reborn-sse/
+
+File: `NamirasGoatRebortRC1.5.7z`
+
+### Pama's Deadly Furniture Scripts
+
+URL: https://www.loverslab.com/files/file/12508-pama%C2%B4s-deadly-furniture-scripts/
+
+File: `PamaDeadlyFurniture_V2.3.0_LE_SSE.zip`
+
+### Shout Like A Virgin SE
+
+URL: https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/
+
+File: `SLaVE_SE_V9.22.7z`
+
+File: `SLaVE_Bodyslide_SE_CBBE_3bbb_v8.1.7z`
+
+### Succubus Explosion Addon
+
+URL: https://www.loverslab.com/files/file/25402-succubus-explosion-addon/
+
+File: `Succubus Explosion Addon V1.2.7z`
+
+### Succubus Twins SE SexLab Edition
+
+URL: https://mega.nz/file/x7BE3aLY#UfBp2PdATkHcNET4bIDUHwwyVA4r8zTS8_misjkWA1o
+
+File: `SuccubusTwins SE SexLab Edition.7z`
+
+
+
