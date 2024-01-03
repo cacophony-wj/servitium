@@ -4,7 +4,7 @@
 
 ![Licentia Black Logo](images/4k_licentia_logo.webp)
 
-# Licentia QUESTS 
+# SERVITIUM
 
 ## "Now look what you made me do."
 
