@@ -2,7 +2,7 @@
 
 ### THIS DOCUMENT MUST BE FOLLOWED FOR SERVITIUM TO WORK PROPERLY.
 
-![Licentia Black Logo](images/4k_licentia_logo.webp)
+![Servitium Logo](images/Servitium_Splash_2.png)
 
 # SERVITIUM
 
