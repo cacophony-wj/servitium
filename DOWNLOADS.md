@@ -364,6 +364,12 @@ URL: https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU
 
 File: `Devious Devices [SE][AE][VR] 5.2.7z`
 
+### ZaZ Animation Pack
+
+URL: https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg
+
+File: `ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z`
+
 ## HOSTED SITE: GOOGLE DRIVE
 
 ### Pubic Hair Overlays SE
