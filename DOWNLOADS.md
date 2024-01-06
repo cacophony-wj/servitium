@@ -116,8 +116,6 @@ URL: https://www.loverslab.com/files/file/9414-slave-girls-by-hydragorgon-se/
 
 File: `Hydra_Slavegirls_SSE_v1.0.7z`
 
-File: `Hydra Slavegirls facegen.7z`
-
 ### Laura's Bondage Shop
 
 URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-11-dec-2023-v343/
@@ -363,6 +361,12 @@ File: `BakaFactory ABC LE SE.7z`
 URL: https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU
 
 File: `Devious Devices [SE][AE][VR] 5.2.7z`
+
+### xLODGen
+
+URL: https://mega.nz/file/QEJHyaaC#b9lTNnl-WnN_YJqYRBYHIptG5DQ0RqHREtkG7rJYKTA
+
+File: `xLODGen.106.7z`
 
 ### ZaZ Animation Pack
 
