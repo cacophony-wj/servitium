@@ -12,11 +12,11 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework as well as a host of intrusive fetish content. It is primarily intended for Female Characters. The reason for its creation is the frequent downtime of similar modlists on _Wabbajack._ 
+_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework as well as a host of intrusive fetish content. It is primarily intended for Female Characters. The reason for its creation is the frequent downtime of similar modlists on _Wabbajack._ **NOTE:** Some "wild & wacky" alternate profiles are available to suit a completely different experience, you can get an overview of those [here.](PROFILES.md)
 
 #### More Information
 
-If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1)
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1) **NOTE** Not all variants are represented.
 
 ### System Specifications
 
