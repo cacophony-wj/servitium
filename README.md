@@ -14,6 +14,10 @@
 
 _SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework as well as a host of intrusive fetish content. It is primarily intended for Female Characters. The reason for its creation is the frequent downtime of similar modlists on _Wabbajack._ 
 
+#### More Information
+
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1)
+
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
