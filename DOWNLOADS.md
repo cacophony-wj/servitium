@@ -414,7 +414,7 @@ File: `Immersive_Daedra_Worship_-_Music_Addon_pt_2.zip`
 
 File: `Immersive_Daedra_Worship_-_Music_Addon_pt_3.zip`
 
-File: `Immersive_Daedra_Worship_-_Music_Addon_pt_3.zip`
+File: `Immersive_Daedra_Worship_-_Music_Addon_pt_4.zip`
 
 ### Immersive Daedra Worship - Temple of Molag Bal - Addon
 
