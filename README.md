@@ -168,8 +168,6 @@ Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animat
 
 Save and reload the game. Wait for the messages.
 
-**SPECIAL INSTRUCTIONS FOR SERVITIUM MALE:** See below.
-
 Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"READ README THEN RUN ME FIRST."** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has completed.
 
 Save and reload your game. Wait for the messages.
@@ -182,27 +180,15 @@ The @Unpause cuts of MCM recordings from a user who actually enjoys _SexLab_. I 
 
 Save and reload your game. Wait for the messages.
 
-Finally, as the Ultimate Option to be forced into servitude from the beginning of the game, you can run "i_unpause-Start-Run_Last." **This is a punishing option** so do not select it unless you want a difficult, potentially unrewarding game (at least at the beginning.) It functions best with the "Unpause Hard" cut from the previous step.
-
-Save and reload your game. Wait for the messages.
-
 The final step is to run the optional _FUTANARI_ MCM recording if you desire such content. This option gives every female in the game a 10% chance for futanari "enhancement." It does not affect the player. To give yourself the same "enhancement," check the Player/NPC Settings in the _Schlongs of Skyrim MCM._
 
 Good luck and may your game-breaking bugs be few in number. 
-
-**SPECIAL INSTRUCTIONS FOR SERVITIUM MALE:** The Unpause recordings are removed because they are no longer appropriate as most of the female submissive content has been removed. So has the Futa recording. 
-
-However, there is an additional step to enable the male dominant mod "Paradise Halls." You need to open the _MCM_ and select the "Paradise Halls Reborn" menu. Just click the option on the right that reads (Paradise Halls) "STOPPED." Close all menus and wait for all messages to stop, then save and reload your game. I believe the default options for this series of mods are probably fine, but you may wish to go back in and set the "Whistle" key to whistle for your -- uh -- followers.
 
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
 
 You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
-
-## Alternate Versions
-
-Alternate Versions of the modlist are also available. _Licentia_, available as a Featured modlist on _Wabbajack_, is the "OG" which features a much lighter adult framework focused on less fringe content. _Licentia QUESTS_, available only on the **MEGA** link from my Discord server, has 14 profiles with slightly varied configurations to suit different styles of play. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
 
 ## Modifications
 
@@ -217,16 +203,6 @@ Unlike many modlists, _Licentia_ was designed for ease of customization. You are
 - **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
 
 For help with your additions, stop by my Discord server and you might just get it!
-
-## Commissions
-
-Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
-
-## FINAL NOTES
-
-When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
-
-You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
 
 ## Updating the Modlist
 
