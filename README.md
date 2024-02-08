@@ -195,12 +195,12 @@ You will also receive a prompt about which Divine and/or Daedra you wish to wors
 Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations below.
 
 - To improve performance on low end or midrange systems, [consult the Performance Improvement Guide.](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
-- To enable controller support for _Licentia,_ [consult the controller guide](controller-guide.md).
-- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
-- To add new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
-- To add outfits to your copy of _Licentia,_ [consult the BodySlide document](How-To-Add-Outfits.md).
+- To enable controller support for _Licentia,_ [consult the controller guide](https://github.com/cacophony-wj/licentia_black/blob/main/controller-guide.md).
+- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](https://github.com/cacophony-wj/licentia_black/blob/main/SoS-OutfitSystem-Guide.md).
+- To add new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](https://github.com/cacophony-wj/licentia_black/blob/main/How-To-Run-Nemesis.md).
+- To add outfits to your copy of _Licentia,_ [consult the BodySlide document](https://github.com/cacophony-wj/licentia_black/blob/main/How-To-Add-Outfits.md).
 - To add a few mods that are commonly requested, [consult the Common Additions document.](https://github.com/cacophony-wj/licentia_black/blob/main/Common-Additions.md) You can request your own!
-- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
+- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](https://github.com/cacophony-wj/licentia_black/blob/main/How-To-Run-Synthesis.md).
 
 For help with your additions, stop by my Discord server and you might just get it!
 
