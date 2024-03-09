@@ -296,7 +296,7 @@ URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission
 
 File: `SubmissiveLolaResubmission 2.1.2.7z`
 
-File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z'
+File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 ### You Don't Need A Break
 
