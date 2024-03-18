@@ -12,7 +12,15 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework as well as a host of intrusive fetish content. It is primarily intended for Female Characters. 
+_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework and a host of intrusive fetish content. It is primarily intended for Female Characters.
+
+**Do you like kicking ass in a high-powered RPG but also sometimes role-playing as a sex slave?**
+
+Play _Servitium._ (This modlist)
+
+**Do you like kicking ass in a high-powered RPG but limiting the sex to "spicy" sexually explicit romances?**
+
+Play [_Licentia._](https://github.com/cacophony-wj/licentia_black/blob/main/README.md)
 
 #### More Information
 
@@ -46,7 +54,7 @@ Refer to [this document](DOWNLOADS.md) for links to all the External Mods you ne
 
 ## Installation
 
-_Skyrim_ needs to be set to the English language for _Wabbajack_ to match its files. Other languages will not work.
+For _ Wabbajack _ to match its files,_Skyrim_ needs to be set to the English language. Other languages will not work.
 
 _Servitium_ requires the additional _Creation Club Content_ from the _Skyrim Anniversary Edition Upgrade_ or the modlist will not install. The price is about $20. 
 
@@ -66,11 +74,11 @@ Depending on your system specs, the download and installation process can take a
 
 ##  Problems with Wabbajack
 
-There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working. 
+There are many different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working. 
 
 **Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
-You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.
+You did not purchase the $20 upgrade to Skyrim, and this is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.
 
 **Could not download x:**
 
@@ -96,7 +104,7 @@ To verify the modlist, click the Gear icon in the upper right. Click the button 
 
 `wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
 
-You will need to replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
+You must replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
 
 I recognize that many people are unfamiliar with file paths and how to type in command-line commands. Most modern devices never require such knowledge. [Here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/) is a comprehensive guide on how to use the command line. I realize this solution is not ideal, but until a Verify button is added to _Wabbajack_, this step will remain necessary for larger modlists. Note the location of your `Licentia.wabbajack` file and your `X:\Licentia` directory and do your best.
 
@@ -112,7 +120,7 @@ If you are confident you meet the System Requirements but still experience sever
 
 ### Launching the Modlist
 
-Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
+Launch ModOrganizer.exe from the directory where you installed the list. Then, launch the game from the **SKSE** entry in the drop-down menu.
 
 ### MCM CONFIGURATION
 
@@ -132,11 +140,11 @@ Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option 
 
 Save and reload the game. Wait for the messages.
 
-Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. You should receive a message that some 800+ animations are enabled if it completes successfully.
+Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that some 1,000+ animations are enabled.
 
 Save and reload the game. Wait for the messages.
 
-Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME"** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has completed.
+Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME"** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has been completed.
 
 Save and reload your game. Wait for the messages.
 
@@ -146,7 +154,7 @@ Good luck and may your game-breaking bugs be few in number.
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
 
-You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
+Depending on your race, you will also receive a prompt about which Divine and/or Daedra you wish to worship. Choose according to your preference.
 
 ## Updating the Modlist
 
