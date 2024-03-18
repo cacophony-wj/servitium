@@ -54,7 +54,7 @@ Refer to [this document](DOWNLOADS.md) for links to all the External Mods you ne
 
 ## Installation
 
-For _ Wabbajack _ to match its files,_Skyrim_ needs to be set to the English language. Other languages will not work.
+For _Wabbajack_ to match its files,_Skyrim_ needs to be set to the English language. Other languages will not work.
 
 _Servitium_ requires the additional _Creation Club Content_ from the _Skyrim Anniversary Edition Upgrade_ or the modlist will not install. The price is about $20. 
 
@@ -65,7 +65,11 @@ Ensure that _OneDrive_ is **uninstalled** or **completely disabled.** This progr
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. Setting the minimum and maximum pagefile size to `40,960` on one Solid State Drive is recommended. 
- 
+
+## The One File
+
+The most common support question is a report that the _Kaidan_ file failed to download. Save yourself a lot of trouble and download it in a web browser, outside of _Wabbajack._ You can find this file [here.](https://mega.nz/file/0dcilQ6Y#LZbAPMNQmKdd2ZCOOaJesRi15v6n-9wuT37KM6FiwEA) Save it somewhere you'll remember it; if you receive an error that it failed, copy it into your _Licentia_ Downloads folder and restart the app.
+
 ##  Using Wabbajack
 
 Login to _Nexus_ with the _Wabbajack_ app. This login can be found by clicking the **GEAR** icon in the top right. It will toggle over to "logged in" when successful.
