@@ -40,6 +40,12 @@ File: `Anub F 11.2020.7z`
 
 File: `Anub H 3.2021.7z`
 
+### BakaFactory's SLAL Animations
+
+URL: https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/
+
+File: `1595608377_BakaFactorySLALAnimations6.01`
+
 ### Billyy's SLAL Animations
 
 URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-3-1/
@@ -303,29 +309,6 @@ File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 URL: https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eager-npcs-annoyance/
 
 File: `YouDontNeedABreak.7z`
-
-## HOSTED SITE: SUBSCRIBESTAR
-
-**NOTE:** _SubscribeStar_ has an extremely strange file host. The file name is different based on when it is requested. Download the primary file at the bottom of each page 
-below and rename it to the filename listed. You can just copy and paste the filenames from this document. 
-
-### Baka Motion Pack
-
-URL: https://subscribestar.adult/posts/993525
-
-Rename the File to: `e390054c-7aa8-4f1a-956e-7ec23df51df4.7z`
-
-### BakaFactory's ABC
-
-URL: https://subscribestar.adult/posts/1142672
-
-Rename the File to: `c75acdb6-c9e6-4bf1-9ce6-1bad514fff82.7z`
-
-### BakaFactory's SLAL Animations
-
-URL: https://subscribestar.adult/posts/905582
-
-Rename the File to: `d94d965a-55c0-4e34-bf1a-a64ffe772165.7z`
 
 ## HOSTED SITE: MEGA
 
