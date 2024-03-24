@@ -294,13 +294,13 @@ File: `Spank That Ass v4.8 BETA SE (27-Apr-2021).7z` (blog post)
 
 URL: https://www.loverslab.com/files/file/27451-submissive-lola-coffees-task-extension/
 
-File: `cfl_LolaAddon_Beta_1.0.8.zip`
+File: `cfl_LolaAddon_1.0.9.zip`
 
 ### Submissive Lola - The ReSubmission
 
 URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
 
-File: `SubmissiveLolaResubmission 2.1.2.7z`
+File: `SubmissiveLolaResubmission 2.1.4.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
