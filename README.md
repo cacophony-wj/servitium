@@ -154,7 +154,7 @@ Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option 
 
 Save and reload the game. Wait for the messages.
 
-Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that some 1,000+ animations are enabled.
+Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that 100s of animations are enabled.
 
 Save and reload the game. Wait for the messages.
 
