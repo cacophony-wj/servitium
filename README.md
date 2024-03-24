@@ -158,7 +158,7 @@ Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animat
 
 Save and reload the game. Wait for the messages.
 
-Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME"** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has been completed.
+Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME"** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has been completed. **CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.**
 
 Save and reload your game. Wait for the messages.
 
