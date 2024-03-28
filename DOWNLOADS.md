@@ -324,6 +324,14 @@ URL: https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg
 
 File: `ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z`
 
+## HOSTED SITE: GITHUB
+
+URL: https://github.com/Exit-9B/MapMarkerFramework/actions/runs/7952458224
+
+File: `MapMarkerFramework`
+
+NOTE: A Github Account is required.
+
 ## HOSTED SITE: GOOGLE DRIVE
 
 ### Pubic Hair Overlays SE
