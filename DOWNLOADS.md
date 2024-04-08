@@ -40,11 +40,17 @@ File: `Anub F 11.2020.7z`
 
 File: `Anub H 3.2021.7z`
 
+### Bad Endings
+
+URL: https://www.loverslab.com/files/file/31478-bad-endings-practical-defeat-addon/
+
+File: `Bad Endings v0.2.1.7z`
+
 ### BakaFactory's SLAL Animations
 
 URL: https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/
 
-File: `1595608377_BakaFactorySLALAnimations6.01`
+File: `BakaFactory SLAL Animation 6.50.7z`
 
 ### Billyy's SLAL Animations
 
@@ -76,12 +82,6 @@ URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
 
 File: `Deviously Enchanted Chests SE-LE3.20.7z`
 
-## Futanari Textures for REALORE SKIN ULTIMA
-
-URL: https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima
-
-File='REALORE SKIN ULTIMA - ERF patch.rar`
-
 ### Gender Bender
 
 URL: https://www.loverslab.com/files/file/6976-gender-bender-se/
@@ -110,7 +110,13 @@ File: `SLAL_M2MAnimations_SE_v20210222.7z`
 
 URL: https://www.loverslab.com/files/file/17619-prison-alternative-a-modular-prison-system/
 
-File: `PamaPrisonAlternative_V1.3_ForSpecialEdition.zip`
+File: `PamaPrisonAlternative_V2.03_LE_SE_AE.zip`
+
+### Pama's Deadly Furniture
+
+URL: https://www.loverslab.com/files/file/12508-pama%C2%B4s-deadly-furniture-scripts/
+
+File: `PamaDeadlyFurniture_V2.4.0_LE_SSE.zip`
 
 ### Practical Defeat
 
@@ -137,6 +143,14 @@ File: `PW SE G9 hotfix F0.3.7z`
 URL: https://www.loverslab.com/files/file/31472-pyramid-utils/
 
 File: `Pyramid Utils v0.2.1.7z`
+
+### Radiant Prostitution - RMCW Edition
+
+URL: https://www.loverslab.com/files/file/28746-radiant-prostitution-rmcw-edition/
+
+File: `Radiant Prostitution 8.1.1 SE.zip`
+
+File: `DEBT QUEST HOTFIX FOR 8.1.1.zip`
 
 ### RohZiMa's New Animated Poser for Skyrim SE
 
@@ -216,6 +230,12 @@ File: `Sexlab Cum Overlays Extended v0.1.0.7z`
 
 File: `SCOE Texture Set - SLACS Plus 4K v1.7.7z`
 
+### SexLab Dangerously Nude
+
+URL: https://www.loverslab.com/files/file/201-sexlab-dangerously-nude/
+
+File: `Sexlab Dangerously Nude_SE.7z`
+
 ### SexLab Eager NPC's
 
 URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/
@@ -268,7 +288,7 @@ File: `Acheron - Simple Slavery-0.10.0.zip`
 
 URL: https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/
 
-File: `Simple Slavery Plus Plus 6.3.20 [SE].zip`
+File: `Simple Slavery Plus Plus 6.3.21 [SE].zip`
 
 ### Skyrim Vixens - Legacy of the Dragonborn Painting Replacer
 
@@ -303,6 +323,8 @@ URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission
 File: `SubmissiveLolaResubmission 2.1.4.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
+
+File: `Runic Collar Assets [SE].7z`
 
 ### You Don't Need A Break
 
