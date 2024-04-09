@@ -54,9 +54,9 @@ File: `BakaFactory SLAL Animation 6.50.7z`
 
 ### Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-3-1/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-4-1/
 
-File: `SLAL_Billyy_Animations v7.6 SE.7z`
+File: `SLAL_Billyy_Animations v7.7 SE.7z`
 
 ### The Book of Sex
 
