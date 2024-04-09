@@ -76,6 +76,12 @@ URL: https://www.loverslab.com/files/file/5462-creature-framework-se/
 
 File: `Creature Framework 1.1.0-pre2A-SE.7z`
 
+### Devious Devices NG
+
+URL: https://www.loverslab.com/files/file/29779-devious-devices-ng/
+
+File: `Devious Devices NG v0.2.9.7z`
+
 ### Deviously Enchanted Chests
 
 URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
@@ -300,7 +306,7 @@ File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
 
 URL: https://www.loverslab.com/files/file/13199-sluts-resume/
 
-File: `SLUTSResume 3.1.zip`
+File: `SLUTSResume 3.2.zip`
 
 File `SLUTS - Redux_Cart.7z`
 
