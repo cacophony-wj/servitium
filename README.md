@@ -140,29 +140,23 @@ Launch ModOrganizer.exe from the directory where you installed the list. Then, l
 
 ### WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
-Wait until all the messages appear then disappear in the upper left corner of the screen. 
+Wait for all of the messages in the upper left corner of the screen to appear and disappear. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait.
 
-Save and reload the game. Wait for the messages.
+**NEW!!** The first handful of levels in this modlist can be rough. I have included a small note in your starting inventory that grants you a little boost at the start of your adventure. If you wish to boost yourself to level 5, read the note that says, "Read Me for 1,000 Starting XP!" Once you have received the "Level Up" notification, open the stats menu and choose your skills and perks. You must choose your skills for each level followed by a primary stat (such as Health, Magicka, or Stamina). **CHOOSING THE PRIMARY STAT COMPLETES THE LEVEL UP.** Pick the skills FIRST. Then close the level up menu, wait for all the skill notifications to complete, and open it again to choose your Perks. As a little bonus, you can sell the note to a general goods vendor (like Lucan or Belethor) to clean them out of gold and grant yourself a little nest egg for buying gear.
 
-Open the menu and select **MCM Configuration.** Find the _SexLab MCM_ and click the option that reads "Install/Update SexLab." Then, close the menu.
+When all of the messages have disappeared, open the Main Menu with the ESC key and find the entry labeled "SexLab." (They are in alphabetical order.) Click on it, and along the top right, click the option labeled "Install/Update SexLab." Now close the menu and wait for all messages to appear and disappear. 
 
-Wait for all messages to appear and disappear. It takes about two minutes. 
+Next is a rather controversial option. If you wish to experiment with non-humans, open the menu again and navigate to the "Animation Settings" entry on the left. On the top right, you will see a checkbox labeled "Enable Creature Animation." Select it if you wish non-humanoids, but remember that in Skyrim, "non-humanoids" includes fun races like Vampires, Werewolves, and Trolls. Then close the menus and wait for the message to appear indicating success.
 
-Save and reload the game. Wait for the messages.
+It is very important at this stage to save and reload the game so SexLab will initialize properly and cache scenes and equipment, so please do so. (**NEW** All the saving and loading I had you do before seems to be overkill but you may wish to do so after every step if you get stuck.)
 
-Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option on the left. Scroll to the top and select "Register." The entry will gray out. **Touch nothing** until this menu reads "Registered." It takes about 30 seconds. Close the menu.
+Just a few more steps. Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option on the left. Scroll to the top and select "Register." The entry will gray out. Touch nothing until this menu reads "Registered." It takes about 30 seconds. Now find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that over 1,000 animations are enabled. I recommend you close the menu and save now in case something goes wrong in the next step because registering animations is very time-consuming and boring.
 
-Save and reload the game. Wait for the messages.
+Final step. Open Main Menu with the ESC key and find the entry labeled "MCM Recorder." Here, you will find an MCM "Recording" labeled simply "RUN ME." Click on it, answer "Yes," and use ESC to back out of all menus. You will receive a popup asking if you wish to play the recording; please do so.
 
-Open the MCM and find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that 100s of animations are enabled.
+Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear. **CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.** At some point the game will configure several poses for you so the player will model them. Just let it go. The whole procedure takes about three minutes. 
 
-Save and reload the game. Wait for the messages.
-
-Open the MCM again and find the _MCM Recorder_ entry. Click the option that says **"RUN ME"** Click OK. Close the menu. Click Run Recording. Wait until you receive a message that the playback has been completed. **CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.**
-
-Save and reload your game. Wait for the messages.
-
-Good luck and may your game-breaking bugs be few in number. 
+That's it! Your modlist is configured. Good luck and may your game-breaking bugs be few in number. 
 
 ## FINAL NOTES
 
