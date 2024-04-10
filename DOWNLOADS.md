@@ -238,7 +238,7 @@ File: `SCOE Texture Set - SLACS Plus 4K v1.7.7z`
 
 ### SexLab Dangerously Nude
 
-URL: https://www.loverslab.com/files/file/201-sexlab-dangerously-nude/
+URL: https://www.loverslab.com/files/file/13798-dangerously-nude_se/
 
 File: `Sexlab Dangerously Nude_SE.7z`
 
