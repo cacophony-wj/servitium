@@ -276,7 +276,7 @@ File: `Patched SE SL TOOLS Updated.zip`
 
 URL: https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/
 
-File: `SexLab Utility Plus v20240407.7z`
+File: `SexLab Utility Plus v20231230.7z`
 
 **NOTE:** This file is displayed in a massive list of similar versions and unrelated mods. Be sure only to download the one with the exact filename above.
 
