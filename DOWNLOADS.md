@@ -236,12 +236,6 @@ File: `Sexlab Cum Overlays Extended v0.1.0.7z`
 
 File: `SCOE Texture Set - SLACS Plus 4K v1.7.7z`
 
-### SexLab Dangerously Nude
-
-URL: https://www.loverslab.com/files/file/13798-dangerously-nude_se/
-
-File: `Sexlab Dangerously Nude_SE.7z`
-
 ### SexLab Eager NPC's
 
 URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/
@@ -253,6 +247,12 @@ File: `SexLab EagerNPCSERev2.7z`
 URL: https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/
 
 FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
+
+### SexLab Sexy Adventures SE
+
+URL: https://www.loverslab.com/files/file/29071-sexy-adventures/
+
+File: `Sexy Adventures 0.6.5 SE.zip`
 
 ### SexLab Solutions - Revisited SE
 
