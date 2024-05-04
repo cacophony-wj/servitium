@@ -8,16 +8,6 @@
 
 ## "Just because you're a little bit subby doesn't mean you shouldn't be able to kick some ass."
 
-# Shameless Shill Interrupt!
-
-Remember the _Servitium DEAD_ profile from a few months ago, with that hot rockin' horny grindhouse murderdeath _Serana Dead Sexy_ mod? ([THIS](https://www.nexusmods.com/skyrimspecialedition/mods/73589) is the **PSYCHOTIC** mod I'm talking about... you can't... not... look...) 
-
-Well, it's back... sorta. The mod author of _Serana Dead Sexy_ thankfully took the opportunity to use my list's down time as impetus to create a _Nexus_ Collection according to his vision of how the mod should **TRULY** be played! Check it out for a **RADICALLY** different way of playing _Skyrim._ 
-
-But only if you don't get squeamish!
-
-[Serana Dead Sexy - Official](https://next.nexusmods.com/skyrimspecialedition/collections/gv7h2i)
-
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
@@ -78,7 +68,7 @@ You must set your Advanced Memory Pagefile to at least 40GB or the modlist will 
 
 ## The One File
 
-The most common support question is a report that the _Kaidan_ file failed to download. Save yourself a lot of trouble and download it in a web browser, outside of _Wabbajack._ You can find this file [here.](https://mega.nz/file/0dcilQ6Y#LZbAPMNQmKdd2ZCOOaJesRi15v6n-9wuT37KM6FiwEA) Save it somewhere you'll remember it; if you receive an error that it failed, copy it into your _Licentia_ Downloads folder and restart the app.
+The most common support question is a report that the _Kaidan_ file failed to download. Save yourself a lot of trouble and download it in a web browser, outside of _Wabbajack._ You can find this file [here.](https://mega.nz/file/8A0Q3BaL#runJx3MQkTHyon04ygzjbCjY8AusO8E2rOSLBGO9A9s) Save it somewhere you'll remember it; if you receive an error that it failed, copy it into your _Licentia_ Downloads folder and restart the app.
 
 ##  Using Wabbajack
 
