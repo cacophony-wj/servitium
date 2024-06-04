@@ -182,8 +182,6 @@ URL: https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/
 
 File: `SOS - No Futanari Schlong - Addon.7z`
 
-Note: Not a normal download. This is a file attachment in a forum thread, which is located about 3/4 down the page in a post by @aeaeae6
-
 ### Schlongs of Skyrim - Leito Schlongs Addon
 
 URL: https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/
