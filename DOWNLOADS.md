@@ -56,7 +56,7 @@ File: `BakaFactory SLAL Animation 6.50.7z`
 
 URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-4-1/
 
-File: `SLAL_Billyy_Animations v7.7 SE.7z`
+File: `SLAL_Billyy_Animations v7.9 SE.7z`
 
 ### The Book of Sex
 
@@ -105,12 +105,6 @@ File: `Impact Play v0.1.0.7z`
 URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-11-dec-2023-v343/
 
 File: `Laura's Bondage Shop v3.43 SSE version - by tznvlw.7z`
-
-### M2M Animations
-
-URL: https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/
-
-File: `SLAL_M2MAnimations_SE_v20210222.7z`
 
 ### Pama Prison Alternative
 
@@ -337,6 +331,12 @@ URL: https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eag
 File: `YouDontNeedABreak.7z`
 
 ## HOSTED SITE: MEGA
+
+### Amorous Adventures
+
+URL: https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y
+
+File: `Amorous Adventures 3.4 SE.zip`
 
 ### Devious Devices for SE & VR 5.2
 
