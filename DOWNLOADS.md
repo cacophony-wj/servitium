@@ -156,7 +156,7 @@ File: `DEBT QUEST HOTFIX FOR 8.1.1.zip`
 
 URL: https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/
 
-File: `RZAZZ_1.00_SE.zip`
+File: `RZAZZ_1.001_SE.zip`
 
 ### Ryadin Animations SLAL Pack
 
