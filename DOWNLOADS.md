@@ -244,7 +244,7 @@ FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
 
 URL: https://www.loverslab.com/files/file/29071-sexy-adventures/
 
-File: `Sexy Adventures 0.6.6 SE.zip`
+File: `Sexy Adventures 0.6.8 SE.zip`
 
 ### SexLab Solutions - Revisited SE
 
