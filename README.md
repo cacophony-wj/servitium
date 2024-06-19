@@ -12,7 +12,7 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework and a host of intrusive fetish content. The list accomodates either female submissive gameplay or male, female, or futanari dominant gameplay via an easy-to-use Dropdown Menu.\\
+_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework and a host of intrusive fetish content. The list accomodates either female submissive gameplay or male, female, or futanari dominant gameplay via an easy-to-use Dropdown Menu.
 
 **Prefer your sex abusive and intrusive?** Play this modlist -- _Servitium._
 
