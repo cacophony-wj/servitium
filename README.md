@@ -6,21 +6,13 @@
 
 # SERVITIUM
 
-## "Just because you're a little bit subby doesn't mean you shouldn't be able to kick some ass."
+## "Sub, Dom, whichever you choose -- you're going to kill it."
 
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework and a host of intrusive fetish content. It is primarily intended for Female Characters.
-
-**Do you like kicking ass in a high-powered RPG but also sometimes role-playing as a sex slave?**
-
-Play _Servitium._ (This modlist)
-
-**Do you like kicking ass in a high-powered RPG but limiting the sex to "spicy" sexually explicit romances?**
-
-Play [_Licentia._](https://github.com/cacophony-wj/licentia_black/blob/main/README.md)
+_SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists. It emphasizes an accessible Power Fantasy design philosophy but spices things up a bit with the _SexLab_ Adult Framework and a host of intrusive fetish content. The list accomodates either female submissive gameplay or male, female, or futanari dominant gameplay via an easy-to-use Dropdown Menu.
 
 #### More Information
 
@@ -123,6 +115,8 @@ If you are confident you meet the System Requirements but still experience sever
 ### Launching the Modlist
 
 Launch ModOrganizer.exe from the directory where you installed the list. Then, launch the game from the **SKSE** entry in the drop-down menu.
+
+If you direct your attention to the Dropdown Menu at the top of the left pane, you will find two Profiles to choose from: regular **SERVITIUM** and **SERVITIUM Male.** **SERVITIUM** is intended **ONLY** for female submissive characters and features a lot of intrusive exploitation. **SERVITIUM Male** is more about dominant content but can accomodate any gender and features far less intrusive gameplay. Choose wisely before you begin, because you **cannot switch in the middle of a game.**
 
 ### MCM CONFIGURATION
 
