@@ -118,6 +118,24 @@ URL: https://www.loverslab.com/files/file/12508-pama%C2%B4s-deadly-furniture-scr
 
 File: `PamaDeadlyFurniture_V2.4.0_LE_SSE.zip`
 
+### Paradise Halls Enhanced (Reborn)
+
+URL: https://www.loverslab.com/files/file/6305-paradise-halls-enhanced-pahe-special-edition-with-the-customary-addons/
+
+File: `ParadiseHallsEnhanced(PAHE)SSE_8.2.0-fix2-Fomod.7z`
+
+### Paradise Halls - And You Get A Slave! 
+
+URL: https://www.loverslab.com/files/file/4318-pah-and-you-get-a-slave-lese/
+
+File: `PAH_AndYouGetASlave_0.63b_SSE.7z`
+
+### Paradise Halls - Home Sweet Home
+
+URL: https://www.loverslab.com/files/file/2845-paradise-halls-home-sweet-home-sele/
+
+File: `PAH_HomeSweetHome_1.33b_SSE.7z`
+
 ### Practical Defeat
 
 URL: https://www.loverslab.com/files/file/27489-beta-practical-defeat/
