@@ -375,3 +375,9 @@ File: `ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z`
 URL: https://drive.google.com/uc?id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG&export=download
 
 File: `Pubic Hair Overlays SE.zip`
+
+## HOSTED SITE: MEDIAFIRE
+
+URL: https://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z/file
+
+File: `[SunJeong] Ninirim Collection 6.0 FOMOD.7z`
