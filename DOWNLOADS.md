@@ -54,9 +54,9 @@ File: `BakaFactory SLAL Animation 6.50.7z`
 
 ### Billyy's SLAL Animations
 
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-4-1/
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-7-1/
 
-File: `SLAL_Billyy_Animations v7.9 SE.7z`
+File: `SLAL_Billyy_Animations v8.0 SE.7z`
 
 ### The Book of Sex
 
@@ -316,7 +316,7 @@ File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
 
 URL: https://www.loverslab.com/files/file/13199-sluts-resume/
 
-File: `SLUTSResume 3.2.zip`
+File: `SLUTSResume 3.3.zip`
 
 File `SLUTS - Redux_Cart.7z`
 
@@ -341,6 +341,12 @@ File: `SubmissiveLolaResubmission 2.1.4.7z`
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 File: `Runic Collar Assets [SE].7z`
+
+### Yamete Kudasai
+
+URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
+
+File: `YameteKudasai - 2.2.1.1.zip`
 
 ### You Don't Need A Break
 
