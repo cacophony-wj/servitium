@@ -262,7 +262,7 @@ FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
 
 URL: https://www.loverslab.com/files/file/29071-sexy-adventures/
 
-File: `Sexy Adventures 0.6.8 SE.zip`
+File: `Sexy Adventures 0.7.0 SE.zip`
 
 ### SexLab Solutions - Revisited SE
 
@@ -336,7 +336,7 @@ File: `cfl_LolaAddon_1.0.9.zip`
 
 URL: https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/
 
-File: `SubmissiveLolaResubmission 2.1.4.7z`
+File: `SubmissiveLolaResubmission 2.1.5a.7z`
 
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
@@ -346,7 +346,7 @@ File: `Runic Collar Assets [SE].7z`
 
 URL: https://www.loverslab.com/files/file/23123-yamete-kudasai/
 
-File: `YameteKudasai - 2.2.1.1.zip`
+File: `YameteKudasai - 2.2.1.2.zip`
 
 ### You Don't Need A Break
 
