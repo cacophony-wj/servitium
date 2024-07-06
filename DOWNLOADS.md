@@ -354,6 +354,12 @@ URL: https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eag
 
 File: `YouDontNeedABreak.7z`
 
+### Wintersun - SexLab Integration
+
+URL: https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/
+
+File: `Wintersun - SexLab Integration SE v1.3.3.7z`
+
 ## HOSTED SITE: MEGA
 
 ### Amorous Adventures
