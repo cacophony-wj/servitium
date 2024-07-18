@@ -22,11 +22,13 @@ _SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most wel
 
 If you want to examine a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1) 
 
-### NEW! Introducing an Optional Download on MEGA: "Of Wenches & Succubi
+### NEW! Introducing an Optional Download on MEGA: "Of Wenches & Succubi"
 
 I've noticed over the years that a lot of users have wanted to customize my modlist with Succubus gameplay. Working with a friend of mine (who is also a friend of the _Serana Dead Sexy_ author), I have delveoped a profile where you can be the sex vampire of your dreams in a world packed with eager Wenchy-y targets:
 
 [Read More About It Here.](Succubus-Form.md)
+
+You can find the Variant (along with all my other Unofficial Modlists) at my [**MEGA Modlist Repository**](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
 
 ### System Specifications
 
