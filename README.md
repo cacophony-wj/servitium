@@ -146,6 +146,10 @@ Once again, please wait for all of the messages in the upper left corner of the 
 
 That's it! Your modlist is configured. Good luck and may your game-breaking bugs be few in number. 
 
+**If you are playing the optional _Succubus_ Profile:**
+
+There are a few extra steps to set up your CUSTOMIZED "Succubus Form." You can find those [here.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
+
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
