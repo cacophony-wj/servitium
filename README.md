@@ -22,6 +22,12 @@ _SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most wel
 
 If you want to examine a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1) 
 
+### NEW! Introducing an Optional Download on MEGA: "Of Wenches & Succubi
+
+I've noticed over the years that a lot of users have wanted to customize my modlist with Succubus gameplay. Working with a friend of mine (who is also a friend of the _Serana Dead Sexy_ author), I have delveoped a profile where you can be the sex vampire of your dreams in a world packed with eager Wenchy-y targets:
+
+[Read More About It Here.](Succubus-Form.md)
+
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
@@ -148,7 +154,7 @@ That's it! Your modlist is configured. Good luck and may your game-breaking bugs
 
 **If you are playing the optional _Succubus_ Profile:**
 
-There are a few extra steps to set up your CUSTOMIZED "Succubus Form." You can find those [here.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
+There are a few extra steps to set up your CUSTOMIZED "Succubus Form." You can find those [here.](Succubus-Form.md)
 
 ## FINAL NOTES
 
