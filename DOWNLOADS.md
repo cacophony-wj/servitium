@@ -393,3 +393,11 @@ File: `Pubic Hair Overlays SE.zip`
 URL: https://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z/file
 
 File: `[SunJeong] Ninirim Collection 6.0 FOMOD.7z`
+
+## IF YOU ARE DOWNLOADING THE OPTIONAL SUCCUBUS PROFILE, THERE IS ONE EXTRA LOVER'S LAB FILE:
+
+URL: https://www.loverslab.com/files/file/9712-sexlab-enchantress-se/
+
+File: `SLEnchantress2-4.7z`
+
+
