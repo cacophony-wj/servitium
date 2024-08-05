@@ -22,14 +22,6 @@ _SERVITIUM_ is a variant of _Licentia_, one of _Wabbajack's_ oldest and most wel
 
 If you want to examine a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/servitium-1) 
 
-### NEW! Introducing an Optional Download on MEGA: "Of Wenches & Succubi"
-
-I've noticed over the years that a lot of users have wanted to customize my modlist with Succubus gameplay. Working with a friend of mine (who is also a friend of the _Serana Dead Sexy_ author), I have delveoped a profile where you can be the sex vampire of your dreams in a world packed with eager Wenchy-y targets:
-
-[Read More About It Here.](Succubus-Form.md)
-
-You can find the Variant (along with all my other Unofficial Modlists) at my [**MEGA Modlist Repository**](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
-
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
@@ -153,10 +145,6 @@ Final step. Open Main Menu with the ESC key and find the entry labeled "MCM Reco
 Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear. **CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.** At some point the game will configure several poses for you so the player will model them. Just let it go. The whole procedure takes about three minutes. 
 
 That's it! Your modlist is configured. Good luck and may your game-breaking bugs be few in number. 
-
-**If you are playing the optional _Succubus_ Profile:**
-
-There are a few extra steps to set up your CUSTOMIZED "Succubus Form." You can find those [here.](Succubus-Form.md)
 
 ## FINAL NOTES
 
