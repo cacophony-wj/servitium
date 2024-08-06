@@ -102,9 +102,9 @@ File: `Impact Play v0.1.0.7z`
 
 ### Laura's Bondage Shop
 
-URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-11-dec-2023-v343/
+URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-4-aug-2024-v350/
 
-File: `Laura's Bondage Shop v3.43 SSE version - by tznvlw.7z`
+File: `Laura's Bondage Shop v3.50 SSE version - by Kitty Kisara.7z`
 
 ### Pama Prison Alternative
 
