@@ -86,7 +86,7 @@ File: `Devious Devices NG v0.2.9.7z`
 
 URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
 
-File: `Deviously Enchanted Chests SE-LE 3.21.7z`
+File: `Deviously Enchanted Chests SE-LE 3.214.7z`
 
 ### Gender Bender
 
