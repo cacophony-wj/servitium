@@ -394,8 +394,6 @@ URL: https://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_C
 
 File: `[SunJeong] Ninirim Collection 6.0 FOMOD.7z`
 
-## IF YOU ARE DOWNLOADING THE OPTIONAL SUCCUBUS PROFILE, THERE IS TWO EXTRA LOVER'S LAB FILES:
-
 ### Damsels in Distress SE
 
 URL: https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-caged-rose/
