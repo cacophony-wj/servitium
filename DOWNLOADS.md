@@ -32,31 +32,15 @@ File: `Amorous Adventures Text and Player Dialogue Revision.zip`
 
 ### Anub's Animations for SE
 
-URL: https://www.loverslab.com/files/file/5623-anubs-animations-for-se/
+URL: https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn/
 
-File: `Anub C 3.2021.7z`
-
-File: `Anub F 11.2020.7z`
-
-File: `Anub H 3.2021.7z`
+File: `1537070476_AnubSLAL022023SSELLver.7z`
 
 ### Bad Endings
 
 URL: https://www.loverslab.com/files/file/31478-bad-endings-practical-defeat-addon/
 
 File: `Bad Endings v0.2.1.7z`
-
-### BakaFactory's SLAL Animations
-
-URL: https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/
-
-File: `BakaFactory SLAL Animation 6.50.7z`
-
-### Billyy's SLAL Animations
-
-URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-8-2/
-
-File: `SLAL_Billyy_Animations v8.1 SE.7z`
 
 ### The Book of Sex
 
@@ -360,13 +344,21 @@ URL: https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/
 
 File: `Wintersun - SexLab Integration SE v1.3.3.7z`
 
+## HOSTED SITE: SubscribeStar
+
+### Billyy's SLAL Animations
+
+URL: https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip
+
+File: `BakaFactory SLAL Animation.zip` (will download as `c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip`)
+
+### BakaFactory ABC
+
+URL: https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1142672/e0f2f9ed-a105-41c9-89e5-a316941b9657.7z
+
+File: `BakaFactory ABC LE SE.7z` (will download as `e0f2f9ed-a105-41c9-89e5-a316941b9657.7z`)
+
 ## HOSTED SITE: MEGA
-
-### Amorous Adventures
-
-URL: https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y
-
-File: `Amorous Adventures 3.4 SE.zip`
 
 ### Devious Devices for SE & VR 5.2
 
