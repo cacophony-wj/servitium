@@ -216,6 +216,12 @@ URL: https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framewor
 
 File: `SexLabFrameworkAE_v166b.7z`
 
+### SexLab Aroused Creatures
+
+URL: https://www.loverslab.com/files/file/6022-sexlab-aroused-creatures-se-2024-06-21/
+
+File: `SexLab Aroused Creatures SE 04.14.7z`
+
 ### SexLab Confabulation
 
 URL: https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020/
