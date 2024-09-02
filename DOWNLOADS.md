@@ -42,6 +42,12 @@ URL: https://www.loverslab.com/files/file/31478-bad-endings-practical-defeat-add
 
 File: `Bad Endings v0.2.1.7z`
 
+### Billyy's SLAL Animations
+
+URL: `https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-9-1/`
+
+File: `SLAL_Billyy_Animations v8.2 SE.7z`
+
 ### The Book of Sex
 
 URL: https://www.loverslab.com/files/file/10091-the-book-of--se/
@@ -64,7 +70,7 @@ File: `Creature Framework 1.1.0-pre2A-SE.7z`
 
 URL: https://www.loverslab.com/files/file/29779-devious-devices-ng/
 
-File: `Devious Devices NG v0.2.9.7z`
+File: `Devious Devices NG v0.3.7.7z`
 
 ### Deviously Enchanted Chests
 
@@ -246,7 +252,7 @@ FIle: `SexLab-Separate-Orgasm 2023-01-16.7z`
 
 URL: https://www.loverslab.com/files/file/29071-sexy-adventures/
 
-File: `Sexy Adventures 0.7.0 SE.zip`
+File: `Sexy Adventures 0.7.1 SE.zip`
 
 ### SexLab Solutions - Revisited SE
 
@@ -346,7 +352,7 @@ File: `Wintersun - SexLab Integration SE v1.3.3.7z`
 
 ## HOSTED SITE: SubscribeStar
 
-### Billyy's SLAL Animations
+### BakaFactory's SLAL Animations
 
 URL: https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip
 
