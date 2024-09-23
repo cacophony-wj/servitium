@@ -66,6 +66,12 @@ URL: https://www.loverslab.com/files/file/5462-creature-framework-se/
 
 File: `Creature Framework 1.1.0-pre2A-SE.7z`
 
+### Damsels in Distress SE
+
+URL: https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-caged-rose/
+
+File: `Damsels in Distress - SE (2) - The Caged Rose v1.2 ESL.7z`
+
 ### Devious Devices NG
 
 URL: https://www.loverslab.com/files/file/29779-devious-devices-ng/
@@ -260,6 +266,12 @@ URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/
 
 File: `SexLab EagerNPCSERev2.7z`
 
+### SexLab Enchantress SE
+
+URL: https://www.loverslab.com/files/file/9712-sexlab-enchantress-se/
+
+File: `SLEnchantress2-4.7z`
+
 ### SexLab Horrible Harrassment Expansion SE
 
 URL: https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/
@@ -415,17 +427,5 @@ File: `Pubic Hair Overlays SE.zip`
 URL: https://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z/file
 
 File: `[SunJeong] Ninirim Collection 6.0 FOMOD.7z`
-
-### Damsels in Distress SE
-
-URL: https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-caged-rose/
-
-File: `Damsels in Distress - SE (2) - The Caged Rose v1.2 ESL.7z`
-
-### SexLab Enchantress SE
-
-URL: https://www.loverslab.com/files/file/9712-sexlab-enchantress-se/
-
-File: `SLEnchantress2-4.7z`
 
 
