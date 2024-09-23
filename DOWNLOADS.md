@@ -72,11 +72,23 @@ URL: https://www.loverslab.com/files/file/29779-devious-devices-ng/
 
 File: `Devious Devices NG v0.3.7.7z`
 
+### Devious Interests
+
+URL: https://www.loverslab.com/files/file/26576-devious-interests/
+
+File: `DeviousInterests_v0925a.7z`
+
 ### Deviously Enchanted Chests
 
 URL: https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/
 
 File: `Deviously Enchanted Chests SE-LE 3.215.7z`
+
+### Deviously Helpless Redux
+
+URL: https://www.loverslab.com/files/file/35530-deviously-helpless-redux/
+
+File: `DLHP Redux.zip`  
 
 ### Gender Bender
 
@@ -247,6 +259,12 @@ File: `SCOE Texture Set - SLACS Plus 4K v1.7.7z`
 URL: https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/
 
 File: `SexLab EagerNPCSERev2.7z`
+
+### SexLab Horrible Harrassment Expansion SE
+
+URL: https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/
+
+File: `SLHH Expansion.7z`
 
 ### SexLab Separate Orgasm SE:
 
