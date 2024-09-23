@@ -146,6 +146,8 @@ Once again, please wait for all of the messages in the upper left corner of the 
 
 That's it! Your modlist is configured. Good luck and may your game-breaking bugs be few in number. 
 
+**NEW** _SERVITIUM_ now has an **OPTIONAL FUN ROLEPLAYING FEATURE** that I personally find compelling but may not be to most Players' tastes, so it is disabled by default. This is **ENFORCED NUDITY** via the _Licenses - Player Oppression_ Mod. The way it works is, if you go into a City wearing any clothing or armor, a Guard will stop you, strip you, and seize all clothing and armor on your person. This can be **DANGEROUS** because NPCs tend to get _HANDSY_ if you aren't clothed. You can purchase a License to wear clothing for a week's duration from any Guard for 650 Septims. You can purchase a License to wear armor for a week's duration from any Guard for 2,000 Septims. To enable this feature, you must **INITIALIZE LICENSES** via the MCM for it and **LOAD THE CONFIGURATION. _DO NOT ENABLE THIS FEATURE IF IT DOES NOT INTEREST YOU._**
+
 ## FINAL NOTES
 
 When you reach your first exterior world location, you will be prompted to enable _Survival Mode_. This mod disables fast travel and requires eating, drinking, and staying warm to survive. The option can be changed later in the default "Gameplay" settings of _Skyrim_.
