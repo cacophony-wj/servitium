@@ -62,8 +62,6 @@ The _Microsoft Visual C++_ redistributable package is required for _Mod Organize
 
 You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. On _Windows 11_ you can find this setting in the About page for your PC. [Here](https://www.windowscentral.com/software-apps/windows-11/how-to-manage-virtual-memory-on-windows-11) is a document to find the specific option; other versions of Windows are similar. Setting the minimum and maximum pagefile size to `40,960` on one Solid State Drive is recommended. 
 
-**UPDATE** Currently you no longer need to manually download the _Kaidan_ file. Unsure yet if this situation will change.
-
 ##  Using Wabbajack
 
 Login to _Nexus_ with the _Wabbajack_ app. This login can be found by clicking the **GEAR** icon in the top right. It will toggle over to "logged in" when successful.
