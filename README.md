@@ -92,19 +92,25 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 ### Verifying the Modlist
 
-_Licentia_ is over 500GB in size. Given the likelihood of corrupted files during installation, it is strongly recommended that files be checked after installation.
+_Servitium_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION** individual files. Given the likelihood of corrupted files during installation, it is strongly recommended that files be checked after installation.
 
-To verify the modlist, click the Gear icon in the upper right. Click the button along the middle left that reads "Launch Wabbajack CLI." Type the following commands:
+**DO NOT OPEN MOD ORGANIZER 2 AFTER INSTALLATION.** This will cause the Verification to fail.
 
-`cd cli`
+To verify the modlist, launch the _Wabbajack_ app again after installation.
 
-`wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
+Ensure that all the same settings are used as during the installation process. You need the **SAME** `.Wabbajack` file and the **SAME** Modlist and Downloads folders.
 
-You must replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
+Click the **VERIFY** button in the Lower Right Corner of _Wabbajack._
 
-I recognize that many people are unfamiliar with file paths and how to type in command-line commands. Most modern devices never require such knowledge. [Here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/) is a comprehensive guide on how to use the command line. I realize this solution is not ideal, but until a Verify button is added to _Wabbajack_, this step will remain necessary for larger modlists. Note the location of your `Licentia.wabbajack` file and your `X:\Licentia` directory and do your best.
+Wait for the process to complete. It can take quite some time.
 
-You must reinstall the list until every file returns as a 100% match. This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted. Do note that if you launch _Mod Organizer 2_, you just changed some files, so they will not verify. Do not touch anything before verifying.
+You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
+
+If you receive **ANY** errors you **MUST** reinstall the list with the "Overwrite" checkbox selected. Do not worry, it will not redo everything. _Wabbajack_ can scan itself to see what's wrong and repair only what needs to be repaired. 
+
+**YOU MUST RECEIVE ZERO ERRORS. THIS IS NOT OPTIONAL.**
+
+This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted.
 
 ## Post-Installation
 
