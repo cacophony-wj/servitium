@@ -50,7 +50,7 @@ Refer to [this document](DOWNLOADS.md) for links to all the External Mods you ne
 
 ## Installation
 
-For _Wabbajack_ to match its files,_Skyrim_ needs to be set to the English language. Other languages will not work.
+For _Wabbajack_ to match its files, _Skyrim_ needs to be set to the English language. Other languages will not work.
 
 _Servitium_ requires the additional _Creation Club Content_ from the _Skyrim Anniversary Edition Upgrade_ or the modlist will not install. The price is about $20. 
 
