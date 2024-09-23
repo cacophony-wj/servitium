@@ -27,7 +27,12 @@ If you want to examine a complete list of the mods in this modlist, [go here.](h
 The recommended setup for an enjoyable experience **at 1080p** is at least
 
 - intel i7 or AMD Ryzen 5600 or later
-- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
+- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later with **AT LEAST 12GB OF DEDICATED VRAM**
+- **40GB PAGEFILE, NO EXCEPTIONS**
+
+**IF YOU DO NOT AT LEAST MEET THESE TARGETS, THE MODLIST WILL PLAY LIKE A HARD FREEZING CRASH-PRONE PIECE OF CRAP.**
+
+Remember that higher resolutions require more powerful Hardware.
 
 ### Requirements
 
