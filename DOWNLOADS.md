@@ -46,7 +46,7 @@ File: `Bad Endings v0.2.1.7z`
 
 URL: `https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-9-1/`
 
-File: `SLAL_Billyy_Animations v8.2 SE.7z`
+File: `SLAL_Billyy_Animations v8.3 SE.7z`
 
 ### The Book of Sex
 
@@ -271,12 +271,6 @@ File: `SexLab EagerNPCSERev2.7z`
 URL: https://www.loverslab.com/files/file/9712-sexlab-enchantress-se/
 
 File: `SLEnchantress2-4.7z`
-
-### SexLab Horrible Harrassment Expansion SE
-
-URL: https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/
-
-File: `SLHH Expansion.7z`
 
 ### SexLab Separate Orgasm SE:
 
