@@ -36,12 +36,6 @@ URL: https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn/
 
 File: `1537070476_AnubSLAL022023SSELLver.7z`
 
-### Bad Endings
-
-URL: https://www.loverslab.com/files/file/31478-bad-endings-practical-defeat-addon/
-
-File: `Bad Endings v0.2.1.7z`
-
 ### Billyy's SLAL Animations
 
 URL: `https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-9-1/`
