@@ -362,6 +362,8 @@ URL: https://www.loverslab.com/files/file/13199-sluts-resume/
 
 File: `SLUTSResume 3.3.zip`
 
+File: `SLUTSResume 3.4.0.zip`
+
 File `SLUTS - Redux_Cart.7z`
 
 ### Spank That Ass SE:
