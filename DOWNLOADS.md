@@ -96,6 +96,12 @@ URL: https://www.loverslab.com/files/file/35530-deviously-helpless-redux/
 
 File: `DLHP Redux.zip`  
 
+### Fade Tattoos Continued
+
+URL: https://www.loverslab.com/files/file/27994-fade-tattoos-continued/
+
+File: `Fade Tattoos Continued 2.1.0.7z`
+
 ### Gender Bender
 
 URL: https://www.loverslab.com/files/file/6976-gender-bender-se/
@@ -110,9 +116,9 @@ File: `Impact Play v0.1.0.7z`
 
 ### Laura's Bondage Shop
 
-URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-7-aug-2024-v351/
+URL: https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-18-sept-2024-v352/
 
-File: `Laura's Bondage Shop v3.51 SSE version - by Kitty Kisara.7z`
+File: `Laura's Bondage Shop v3.52 SSE version - by Allen Harris.7z`
 
 ### Pama Prison Alternative
 
@@ -177,6 +183,12 @@ URL: https://www.loverslab.com/files/file/28746-radiant-prostitution-rmcw-editio
 File: `Radiant Prostitution 8.1.1 SE.zip`
 
 File: `DEBT QUEST HOTFIX FOR 8.1.1.zip`
+
+### R*pe Tattoos Continued
+
+URL: https://www.loverslab.com/files/file/27999-rape-tattoos-continued/
+
+File: `R*pe Tattoos Continued 2.0.3.7z`
 
 ### RohZiMa's New Animated Poser for Skyrim SE
 
@@ -331,6 +343,18 @@ File: `Simple Slavery Plus Plus 6.3.21 [SE].zip`
 URL: https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/
 
 File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
+
+### SlaveTats NG
+
+URL: https://www.loverslab.com/files/file/35989-slavetatsng/
+
+File: `SlaveTatsNG-0.6.0.7z`
+
+### SlaveTats Textures
+
+URL: https://www.loverslab.com/files/file/619-slavetats/
+
+File: **Just go ahead and download _ALL_ of the files from this page.**
 
 ### S.L.U.T.S. Resume
 
