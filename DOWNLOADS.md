@@ -38,7 +38,7 @@ File: `1537070476_AnubSLAL022023SSELLver.7z`
 
 ### Billyy's SLAL Animations
 
-URL: `https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-9-1/`
+URL: https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-9-1/
 
 File: `SLAL_Billyy_Animations v8.3 SE.7z`
 
