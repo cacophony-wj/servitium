@@ -354,15 +354,17 @@ URL: https://www.loverslab.com/files/file/619-slavetats/
 
 File: **Just go ahead and download _ALL_ of the files from this page.**
 
+### SLHH Expansion
+
+URL: https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/
+
+File: `SLHH Expansion.7z`
+
 ### S.L.U.T.S. Resume
 
 URL: https://www.loverslab.com/files/file/13199-sluts-resume/
 
-File: `SLUTSResume 3.3.zip`
-
-File: `SLUTSResume 3.4.0.zip`
-
-File `SLUTS - Redux_Cart.7z`
+File: `SLUTSResume 3.5.0.zip`
 
 ### Spank That Ass SE:
 
@@ -405,6 +407,11 @@ URL: https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/
 File: `Wintersun - SexLab Integration SE v1.3.3.7z`
 
 ## HOSTED SITE: SubscribeStar
+
+### Baka Motion Data Pack
+URL: https://subscribestar.adult/posts/993525
+
+File: `Baka Motion Data Pack 1.60.zip` (will download as `361830fd-9b59-4928-8103-96643dc48f7a.zip`
 
 ### BakaFactory's SLAL Animations
 
