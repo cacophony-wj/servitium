@@ -74,8 +74,6 @@ File: `Devious Devices NG v0.3.7.7z`
 
 File: `Devious Devices NG v0.2.9.7z`
 
-(Apologies that I included the old file, I will compile without it soon.)
-
 ### Devious Interests
 
 URL: https://www.loverslab.com/files/file/26576-devious-interests/
