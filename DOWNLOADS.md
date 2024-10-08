@@ -407,19 +407,20 @@ File: `Wintersun - SexLab Integration SE v1.3.3.7z`
 ## HOSTED SITE: SubscribeStar
 
 ### Baka Motion Data Pack
+
 URL: https://subscribestar.adult/posts/993525
 
 File: `Baka Motion Data Pack 1.60.zip` (will download as `361830fd-9b59-4928-8103-96643dc48f7a.zip`
 
 ### BakaFactory's SLAL Animations
 
-URL: https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip
+URL: https://subscribestar.adult/posts/1302296
 
 File: `BakaFactory SLAL Animation.zip` (will download as `c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip`)
 
 ### BakaFactory ABC
 
-URL: https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1142672/e0f2f9ed-a105-41c9-89e5-a316941b9657.7z
+URL: https://subscribestar.adult/posts/1142672
 
 File: `BakaFactory ABC LE SE.7z` (will download as `e0f2f9ed-a105-41c9-89e5-a316941b9657.7z`)
 
