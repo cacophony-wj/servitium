@@ -230,6 +230,12 @@ URL: https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/
 
 File: `Schlongs_of_Skyrim_SE - v1.14.rar`
 
+### ScRappies Matchmaker
+
+URL: https://www.loverslab.com/files/file/19891-scrappies-matchmaker/
+
+File: `ScrappiesMatchmaker - 1.5.1.1.zip`
+
 ### SexLab Animation Loader
 
 URL: https://www.loverslab.com/files/file/23737-sexlab-animation-loader/
@@ -339,6 +345,14 @@ File: `Simple Slavery Plus Plus 6.3.21 [SE].zip`
 URL: https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/
 
 File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
+
+### Slave Girls by Hydragorgon SE
+
+URL: https://www.loverslab.com/files/file/9414-slave-girls-by-hydragorgon-se/
+
+File: `Hydra_Slavegirls_SSE_v1.0.7z`
+
+File: `Hydragorgon Furniture Patch.esp`
 
 ### SlaveTats NG
 
