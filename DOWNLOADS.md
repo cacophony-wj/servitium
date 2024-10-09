@@ -66,6 +66,12 @@ URL: https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-cag
 
 File: `Damsels in Distress - SE (2) - The Caged Rose v1.2 ESL.7z`
 
+### Delphine Humiliated - SexLab
+
+URL: https://www.loverslab.com/files/file/33078-shadowmans-npcs-53-delphine-humiliated-sexlab/
+
+File: `delphine Mod sl.rar`
+
 ### Devious Devices NG
 
 URL: https://www.loverslab.com/files/file/29779-devious-devices-ng/
@@ -399,6 +405,12 @@ File: `SubmissiveLolaResubmission 2.1.5a.7z`
 File: `SubmissiveLolaResubmission -Optional - RidingCrop SE.7z`
 
 File: `Runic Collar Assets [SE].7z`
+
+### Defeating Vex's Domination
+
+URL: https://www.loverslab.com/files/file/33208-shadowmans-npcs-7b-defeating-vexs-domination-sexlab/
+
+File: `vex rough SL.rar`
 
 ### Yamete Kudasai
 
