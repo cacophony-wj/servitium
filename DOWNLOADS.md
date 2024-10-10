@@ -6,6 +6,12 @@ It is preferable to download all of these manually before attempting installatio
 
 ## HOSTED SITE: Lover's Lab
 
+### Acheron - Diary of Mine Addon
+
+URL: https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/
+
+File: `Acheron - Diary of Mine Addon - 1.1.0.zip`
+
 ### Acheron Extension Library
 
 URL: https://www.loverslab.com/files/file/27063-acheron-extension-library/
@@ -97,6 +103,12 @@ File: `Deviously Enchanted Chests SE-LE 3.215.7z`
 URL: https://www.loverslab.com/files/file/35530-deviously-helpless-redux/
 
 File: `DLHP Redux.zip`  
+
+### Diary of Mine for Paradise Halls
+
+URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/
+
+File: `Diary Of Mine 6.0.6_SE_fomod.7z`
 
 ### Fade Tattoos Continued
 
