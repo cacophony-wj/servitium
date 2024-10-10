@@ -129,7 +129,14 @@ If you are confident you meet the System Requirements but still experience sever
 
 Launch ModOrganizer.exe from the directory where you installed the list. 
 
-If you direct your attention to the Dropdown Menu at the top of the left pane, you will find two Profiles to choose from: regular **SERVITIUM** and **SERVITIUM Male.** **SERVITIUM** is intended **ONLY** for female submissive characters and features a lot of intrusive exploitation. **SERVITIUM Male** is more about dominant content but can accomodate any gender and features far less intrusive gameplay. Choose wisely before you begin, because you **cannot switch in the middle of a game.**
+If you direct your attention to the Dropdown Menu at the top of the left pane, you will find four Profiles to choose from: 
+
+- **SERVITIUM** is intended **ONLY** for female submissive characters and features a lot of intrusive exploitation.
+- **SERVITIUM Male** is more about dominant content but can accomodate any gender and features far less intrusive gameplay.
+- **SERVITIUM OWS** is also known as "Of Wenches and Succubi" and uses a Suite of Succubus and Wench mods to simulate a Player Transformation into an Immortal Demon who gains superpowers via sex.
+- **SERVITIUM PPLUS** is a _highly experimental_ Profile (similar to the main _SERVITIUM_ list) based around the next evolution of _SexLab._ (It is currently not up to date.)
+
+Choose wisely before you begin, because you **cannot switch in the middle of a game.**
 
 Then, launch the game from the **SKSE** entry in the drop-down menu.
 
