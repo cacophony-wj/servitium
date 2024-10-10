@@ -168,6 +168,10 @@ When you reach your first exterior world location, you will be prompted to enabl
 
 Depending on your race, you will also receive a prompt about which Divine and/or Daedra you wish to worship. Choose according to your preference.
 
+**IF YOU ARE PLAYING SERVITIUM MALE:** You will need to wait a bit longer for a bunch of messages to appear in the Upper Left, just as you did in the starting room. You will know the process is concluded when you receive the message "Paradise Halls Boot Complete." Lastly, you will need to enable the _Hunter's Pride_ Defeat Menu for Enslavement to work properly. Simply hold the `SCROLL LOCK` key on your keyboard, then press the `PAUSE` key. You should see a message up there that reads "Hunter's Pride Enabled."
+
+**IF YOU ARE PLAYING SERVITIUM OWS:** The process to develop your Succubus / Incubus form can be a bit involved. [Refer to this document.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
+
 ## Updating the Modlist
 
 Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. It is rarely recommended to continue a save when you update a modlist.
