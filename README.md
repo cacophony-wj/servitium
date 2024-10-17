@@ -137,13 +137,33 @@ It is very important at this stage to save and reload the game so SexLab will in
 
 Just a few more steps. 
 
-Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option on the left. Scroll to the top and select "Register." The entry will gray out. Touch nothing until this menu reads "Registered." It takes about 30 seconds.
+Open the MCM and find the _ZAZ_ entry at the bottom. Select the "SexLab" option on the left. 
 
- Now find the _SLAL Anim Loader_ entry. Click the "Enable all animations" option. Wait a couple of seconds. Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that over 900 animations are enabled. I recommend you close the menu and save now in case something goes wrong in the next step.
+Scroll to the top and select "Register." The entry will gray out. 
 
-Final step. Open Main Menu with the ESC key and find the entry labeled "MCM Recorder." Here, you will find an MCM "Recording" labeled simply "RUN ME." Click on it, answer "Yes," and use ESC to back out of all menus. You will receive a popup asking if you wish to play the recording; please do so.
+Touch nothing until this menu reads "Registered." 
 
-Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear. **CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.** At some point the game will configure several poses for you so the player will model them. Just let it go. The whole procedure takes about three minutes. 
+ Now find the _SLAL Anim Loader_ entry. 
+
+Click the "Enable all animations" option. Wait a couple of seconds. 
+
+Click the "Register all animations" option. The process of registering the animations takes about two minutes. If it completes successfully, you should receive a message that over 900 animations are enabled.
+
+ I recommend you close the menu and save now in case something goes wrong in the next step.
+
+Final step. Open Main Menu with the ESC key and find the entry labeled "MCM Recorder." 
+
+Here, you will find an MCM "Recording" labeled simply "RUN ME." 
+
+Click on it, answer "Yes," and use ESC to back out of all menus. 
+
+You will receive a popup asking if you wish to play the recording; please do so.
+
+Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear. 
+
+**CLICK OK ON ANY DIALOG BOXES. IF YOU RECEIVE ANY ERRORS, CLICK CONTINUE.** 
+
+The whole procedure takes about three minutes. 
 
 That's it! Your modlist is configured. Good luck and may your game-breaking bugs be few in number. 
 
