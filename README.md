@@ -56,6 +56,8 @@ The _Microsoft Visual C++_ redistributable package is required. Download the x64
 
 You must set your Advanced Memory Pagefile to at least 40GB or the modlist will constantly crash. 
 
+You must launch the _Skyrim Launcher_ at least once or _Wabbajack_ cannot detect the game.
+
 ##  Using Wabbajack
 
 Login to _Nexus_ with the _Wabbajack_ app. 
