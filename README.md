@@ -133,6 +133,8 @@ When all of the messages have disappeared, find the Mod Configuration entry for 
 
 Click on it, and along the top right, click the option labeled "Install/Update SexLab." Now close the menu and wait for all messages to appear and disappear. 
 
+Reopen the MCM for _SexLab_ and select the "Animations" entry. Click the option that says "Enable Creature Animations." Close and wait for messages.
+
 It is very important at this stage to save and reload the game so SexLab will initialize properly and cache scenes and equipment.
 
 Just a few more steps. 
