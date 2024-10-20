@@ -179,6 +179,8 @@ You should see a message up there that reads "Hunter's Pride Enabled."
 
 **IF YOU ARE PLAYING SERVITIUM OWS:** The process to develop your Succubus / Incubus form can be a bit involved. [Refer to this document.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
 
+**IF YOU FIND YOU ARE NOT HORNY:** Or just want to turn off the sex and play _Skyrim_ for awhile, run the "XXX OFF" MCM Recording. To re-enable the sex, you will need to run "RUN ME" followed by "XXX ON."
+
 ## Updating the Modlist
 
 Download the modlist's `.wabbajack` file again and specify the same directories.
