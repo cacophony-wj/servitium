@@ -171,7 +171,7 @@ That's it! Your modlist is configured. Good luck and may your game-breaking bugs
 
 ## FINAL NOTES
 
-**IF YOU FIND YOU ARE NOT HORNY:** Or just want to turn off the sex & bondage and play _Skyrim_ for awhile, run the "XXX OFF" MCM Recording. To re-enable the sex, you will need to run "RUN ME" followed by "XXX ON."
+**WHEN YOU ENTER YOUR FIRST EXTERIOR OVERWORLD LOCATION:** popups will appear to enable _Survival Mode,_ which requires you to eat, sleep, and stay warm -- and disables Fast Travel -- and to select which Deity you wish to serve. Choose according to your preference.
 
 **IF YOU ARE PLAYING SERVITIUM MALE:** You will need to wait a bit longer for a bunch of messages to appear in the Upper Left, just as you did in the starting room.
 
@@ -180,6 +180,8 @@ Lastly, you will need to enable the _Hunter's Pride_ Defeat Menu for Enslavement
 You should see a message up there that reads "Hunter's Pride Enabled."
 
 **IF YOU ARE PLAYING SERVITIUM OWS:** The process to develop your Succubus / Incubus form can be a bit involved. [Refer to this document.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
+
+**IF YOU FIND YOU ARE NOT HORNY:** Or just want to turn off the sex & bondage and play _Skyrim_ for awhile, run the "XXX OFF" MCM Recording. To re-enable the sex, you will need to run "RUN ME" followed by "XXX ON."
 
 ## Updating the Modlist
 
