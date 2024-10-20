@@ -171,6 +171,8 @@ That's it! Your modlist is configured. Good luck and may your game-breaking bugs
 
 ## FINAL NOTES
 
+**IF YOU FIND YOU ARE NOT HORNY:** Or just want to turn off the sex & bondage and play _Skyrim_ for awhile, run the "XXX OFF" MCM Recording. To re-enable the sex, you will need to run "RUN ME" followed by "XXX ON."
+
 **IF YOU ARE PLAYING SERVITIUM MALE:** You will need to wait a bit longer for a bunch of messages to appear in the Upper Left, just as you did in the starting room.
 
 Lastly, you will need to enable the _Hunter's Pride_ Defeat Menu for Enslavement to work properly. Simply hold the `SCROLL LOCK` key on your keyboard, then press the `PAUSE` key. 
@@ -178,8 +180,6 @@ Lastly, you will need to enable the _Hunter's Pride_ Defeat Menu for Enslavement
 You should see a message up there that reads "Hunter's Pride Enabled."
 
 **IF YOU ARE PLAYING SERVITIUM OWS:** The process to develop your Succubus / Incubus form can be a bit involved. [Refer to this document.](https://github.com/cacophony-wj/servitium/blob/main/Succubus-Form.md)
-
-**IF YOU FIND YOU ARE NOT HORNY:** Or just want to turn off the sex and play _Skyrim_ for awhile, run the "XXX OFF" MCM Recording. To re-enable the sex, you will need to run "RUN ME" followed by "XXX ON."
 
 ## Updating the Modlist
 
