@@ -108,7 +108,7 @@ File: `DLHP Redux.zip`
 
 URL: https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/
 
-File: `Diary Of Mine 6.0.6_SE_fomod.7z`
+File: `Diary Of Mine 6.0.7_SE_fomod.7z`
 
 ### Fade Tattoos Continued
 
